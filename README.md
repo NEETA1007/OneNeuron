@@ -21,4 +21,4 @@ cp Research\ noteook/demo.ipynb .
 ## Add Images-
 ![Sample Image](plots/and.png)
 
-<img src="iplots/and.png" alt="Girl in a jacket" width="500" height="600">
+<img src="plots/and.png" alt="Girl in a jacket" width="500" height="600">
