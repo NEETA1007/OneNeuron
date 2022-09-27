@@ -13,5 +13,12 @@ git add . && git commit -m "docstring updated" && git push origin main
 cp Research\ noteook/demo.ipynb .
 '''bash
 
-'''
-http://guides.github.com/introduction/git-handbook/
+## Add URL-
+[Git handbook](https://guides.github.com/introduction/git-handbook/)
+
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>>
+
+## Add Images-
+![Sample Image](plots/and.png)
+
+<img src="iplots/and.png" alt="Girl in a jacket" width="500" height="600">
