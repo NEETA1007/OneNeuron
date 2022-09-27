@@ -40,3 +40,16 @@ def main(data, eta, epochs, filename, plotFileName):
     save_plot(df, plotFileName, model)
 
 ```
+## dataset
+x1 | x2 | y
+-|-|-
+0|0|0
+0|1|0
+1|0|0
+1|1|1
+
+### 
+* point 1
+*point 2
+
+1. point
