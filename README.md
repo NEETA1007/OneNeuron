@@ -50,6 +50,6 @@ x1 | x2 | y
 
 ### 
 * point 1
-*point 2
+* point 2
 
 1. point
